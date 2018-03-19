@@ -2,4 +2,4 @@
 -pip2 install bash
 -git clone https://github.com/ALX-04/iesDEFACE
 -cd iesDEFACE
--bash iesDEFACE.sh
+-bash iesDeface.sh
